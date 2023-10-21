@@ -60,11 +60,13 @@ body {
   }
   
   .image-placeholder {
+    background-image: url(./images/pretty-me.jpg);
+    background-size: cover;
+    border-radius: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: darkgray;
     box-sizing: border-box;
-    height: 30vh;
-    width: 25vw;
+    height: 40vh;
+    width: 20vw;
   }
