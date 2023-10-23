@@ -37,7 +37,7 @@
     box-sizing: border-box;
     height: 150px;
     width: 150px;
-    border-radius: 15px;
+    border-radius: 80px;
 }
 
 p {
@@ -45,11 +45,13 @@ p {
 }
 
 #github-image {
-    background-image: url(./images/pretty-me.jpg);
+    background-image: url(./images/github-logo-2.png);
     background-size: cover;
 }
 
+
 #github-text {
+    color: #1F2937;
     font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
