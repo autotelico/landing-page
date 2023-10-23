@@ -28,6 +28,7 @@ body {
     height: 30vh;
     width: 25vw;
     padding: 5px;
+    margin-right: 50px;
   }
 
   .text-wrap p {
@@ -42,9 +43,10 @@ body {
   }
   
   .hero-secondary-text {
+    margin-top: 10px;
     font-size: 18px;
     color: #E5E7EB;
-    margin: 0;
+    margin-top: 10px;
   }
   
   .hero.sign-up {
@@ -54,13 +56,14 @@ body {
     color: white;
     box-sizing: border-box;
     margin-top: 10px;
+    padding: 5px;
     height: 4.1vh;
     width: 6.5vw;
     font-family: sans-serif;
   }
   
   .image-placeholder {
-    background-image: url(./images/pretty-me.jpg);
+    background-image: url(./images/eu-ai.jpeg);
     background-size: cover;
     border-radius: 50%;
     display: flex;
