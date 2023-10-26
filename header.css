@@ -40,6 +40,7 @@
     color: #F9FAF8;
     margin-left: 11.7vw;
     animation: textColor 10s ease infinite;
+    transform: translate(20px, 0);
   }
 
   ul {
@@ -49,6 +50,7 @@
     margin-right: 11.5vw;
     color: white;
     font-size: 17px;
+    transform: translate(-25px, 0);
   }
 
   a {
