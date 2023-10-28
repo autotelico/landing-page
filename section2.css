@@ -40,6 +40,10 @@
     border-radius: 80px;
 }
 
+#my-github {
+    cursor: pointer;
+}
+
 p {
     text-align: center;
 }
