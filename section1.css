@@ -50,6 +50,7 @@ body {
   }
   
   .hero.sign-up {
+    cursor: pointer;
     background: rgba(206, 2, 2, 0.932);
     border-radius: 8px;
     border: none;
