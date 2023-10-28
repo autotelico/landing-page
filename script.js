@@ -4,7 +4,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
     function playMagicSound() {
         magicSound.play();
-        alert('You\'re a real magician 🧝🏻✨✨✨');
+        setTimeout(function(){
+            alert('You\'re a real magician 🧝🏻✨✨✨');
+        }, 100);   
     }
     
     spellButton.addEventListener('click', playMagicSound);
